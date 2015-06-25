@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailNews", "RetailNews\RetailNews.csproj", "{89F51784-C181-428A-A675-0A5F9A544CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailNews.Tests", "RetailNews.Tests\RetailNews.Tests.csproj", "{FAF98793-AE9F-4609-BCB2-465D1AE3DBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F51784-C181-428A-A675-0A5F9A544CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F51784-C181-428A-A675-0A5F9A544CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F51784-C181-428A-A675-0A5F9A544CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F51784-C181-428A-A675-0A5F9A544CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF98793-AE9F-4609-BCB2-465D1AE3DBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF98793-AE9F-4609-BCB2-465D1AE3DBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF98793-AE9F-4609-BCB2-465D1AE3DBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF98793-AE9F-4609-BCB2-465D1AE3DBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
